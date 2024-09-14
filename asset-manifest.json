@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CloneApp/static/css/main.4315d2dc.css",
+    "main.js": "/CloneApp/static/js/main.8ef3b68c.js",
+    "static/js/453.1c29ee80.chunk.js": "/CloneApp/static/js/453.1c29ee80.chunk.js",
+    "static/media/netflix_spinner.gif": "/CloneApp/static/media/netflix_spinner.7517415e575521b3249f.gif",
+    "static/media/background_banner.jpg": "/CloneApp/static/media/background_banner.303a83aff58191b99963.jpg",
+    "static/media/logo.png": "/CloneApp/static/media/logo.6521ee8dd0b9223ba3b5.png",
+    "static/media/bell_icon.svg": "/CloneApp/static/media/bell_icon.0462b63671476e5256a99e7cc1a42bc0.svg",
+    "index.html": "/CloneApp/index.html",
+    "static/media/search_icon.svg": "/CloneApp/static/media/search_icon.59429cd0003678c5368450ea61101e56.svg",
+    "static/media/caret_icon.svg": "/CloneApp/static/media/caret_icon.0d0a268cfa90dc1d8acf717a337a30cf.svg",
+    "main.4315d2dc.css.map": "/CloneApp/static/css/main.4315d2dc.css.map",
+    "main.8ef3b68c.js.map": "/CloneApp/static/js/main.8ef3b68c.js.map",
+    "453.1c29ee80.chunk.js.map": "/CloneApp/static/js/453.1c29ee80.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4315d2dc.css",
+    "static/js/main.8ef3b68c.js"
+  ]
+}
